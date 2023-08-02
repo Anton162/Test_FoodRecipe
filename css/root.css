@@ -1,0 +1,10 @@
+/* Цвета стандартные */
+:root {
+    --hover-color: #FF7426;
+    --bgc-card-color: #E7FAFE;
+    --recipe-card-grd: linear-gradient(180deg, rgba(231, 249, 253, 0.00) 0%, #E7F9FD 100%);
+
+/* Время трансформации */
+    --transitoin: .2s;
+}
+

@@ -1,0 +1,19 @@
+.container {
+  width: 1280px;
+  margin: 0 auto;
+  /* border: 1px black dotted; */
+}
+.flex {
+  display: flex;
+}
+.btn {
+  background-color: #000;
+  height: 60px;
+  border: none;
+  border-radius: 16px;
+  transition: var(--transitoin);
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: var(--hover-color);
+}
